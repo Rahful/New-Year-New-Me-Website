@@ -49,3 +49,54 @@ header {
     border-radius: 5px;
     border: none;
 }
+/* main section style */
+main {
+    max-width: 1100px;
+    margin: auto;
+}
+
+/* Failures section style */
+.person-section {
+    display: flex;
+    align-items: center;
+    margin-top: 130px;
+}
+
+.person-section img {
+    width: 550px;
+}
+
+.person-blog {
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+.person-blog-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 27px;
+    color: #151414;
+}
+
+.person-blog-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+
+ul {
+    margin-top: 16px;
+}
+
+ul li {
+    list-style: none;
+    color: #444343;
+    line-height: 26px;
+}
+
+.fa-solid {
+    color: #16D887;
+    margin-right: 14px;
+}
